@@ -1,10 +1,12 @@
 # HTML_Translator
-A basic tool that takes in an html file and returns a translated version of it using Gemini Pro through Clarifai
+A basic tool that takes in an html file and returns a translated version of it using Gemini Pro through Clarifai.
 
 You need to set an environment variable for Clarifai, CLARIFAI_PAT, set it to your own Clarifai personal access token you get after signing up on [their website](clarifai.com).
 
 ## Usage:
-Follow the prompts after running the file with python, it will return the absolute path for the HTML file generated
+Follow the prompts after running the file with python, it will return the absolute path for the HTML file generated.
+
+Make sure you install everything in [requirements.txt](https://github.com/MazenMamdouh371/HTML_Translator/blob/main/requirements.txt).
 
 ## Sample:
 Original (English):
